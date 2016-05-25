@@ -3,10 +3,25 @@ h1 {
 
 }
 
-.column {
+.column1 {
   float: left;
   width: 30%;
   padding: 15px;
+  background: #ffe6f0;
+}
+
+.column2 {
+  float: left;
+  width: 30%;
+  padding: 15px;
+  background: #ff3385;
+}
+
+.column3 {
+  float: left;
+  width: 30%;
+  padding: 15px;
+  background: #800000;
 }
 
 img {
